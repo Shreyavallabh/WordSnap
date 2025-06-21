@@ -1,4 +1,4 @@
-📖 Dictionary App (Python)
+📖 WordSnap (Python)
 
 A simple and beginner-friendly Python project that allows users to look up the meanings and synonyms of English words using a free dictionary API. This command-line tool is perfect for anyone learning Python or working with APIs.
 
